@@ -1,0 +1,9 @@
+================================
+        FACTURA DE VENTA        
+ NUMERO DE TICKET :B001         
+ DIA DE LA COMPRA :  2024-05-07 
+ HORA DE LA COMPRA : 13:14:33.81
+ VENDEDOR :Carlota              
+ COMPRADOR :Pedro               
+                                
+                                

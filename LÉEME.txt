@@ -1,0 +1,9 @@
+PARA USAR EL PROGRAMA:
+
+	-Iniciar sesión con "Josep" como usuario, y "1234" como contraseña. (Teniendo en cuenta mayúsculas).
+	-Opciones Acceso Base de Datos:
+		1. Mostrar para ver contenido tabla.
+		2. Selecciona una fila y botón eliminar para eliminar sus registros.
+		3. Selecciona una fila y botón mostrar para pasar los datos a los jTextFields, se escriben cambios y botón actualizar para 		actualizarlos.
+		4. Limpiar para limpiar JTextFields
+
