@@ -14,6 +14,7 @@ public class ALIMENTACION {
     public String tipo;
     public float precio;
     public String marca;
+    public String hola;
     
     public ALIMENTACION(){
         
